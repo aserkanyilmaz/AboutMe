@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aserkanyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="aserkanyilmaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aserkanyilmaz" alt="aserkanyilmaz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sekoyilmazz" target="blank"><img src="https://img.shields.io/twitter/follow/sekoyilmazz?logo=twitter&style=for-the-badge" alt="sekoyilmazz" /></a> </p>
 
 - 🔭 I’m currently working for **Bestseller**
@@ -18,7 +16,7 @@
 <a href="https://twitter.com/sekoyilmazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sekoyilmazz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aserkanyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aserkanyilmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/sekoyilmazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sekoyilmazz" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sekoylmz14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sekoylmz14" height="30" width="40" /></a>
+<a href="www.hackerrank.com/sekoylmz14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sekoylmz14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
