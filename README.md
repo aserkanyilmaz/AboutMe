@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sekoyilmazz" target="blank"><img src="https://img.shields.io/twitter/follow/sekoyilmazz?logo=twitter&style=for-the-badge" alt="sekoyilmazz" /></a> </p>
 
-- 🔭 I’m currently working for **Bestseller**
-
-- 🌱 I’m currently learning **Unity, Swift, .net**
+- 🔭 I’m currently working for **Ericsson**
 
 - 📫 How to reach me **sekoylmz14@gmail.com**
 
